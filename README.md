@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Leandro-Marcelino47/Leandro-Marcelino47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
+### Seja Bem Vindo Ao meu Perfil 😁
+<-- **Meu nome é Leandro Marcelino**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📚 Estou estudando na Alura
+- ♨️ Estou me desenvolvendo na linguagem JavaScript
+- 🔗 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+**Você pode entrar em contato comigo 📫**
+
+**00001080188848sp@al.educacao.sp.gov.br**
+![](https://i.pinimg.com/originals/3d/6b/9e/3d6b9e6deb174f6c38b27f6b41b7075d.gif)
 -->
